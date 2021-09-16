@@ -1,4 +1,4 @@
 # PYTHON-PROGRAMS-
 Python Fundamental programs
-Logical and tricky porgrams
+Logical and tricky programs
 Simple game using python
